@@ -84,6 +84,13 @@
 | [**70. 模型问题：Qwen2.5-VL的原生分辨率具体是如何做的？**](LLMs/Reference.md)           | 
 
 
+- Agent工作流
+
+| [**01. Function call 怎么训练的，怎么微调的？**](LLMs/Agent.md) |
+| :------------------------------------------- |
+| [**02. Fucntion call 怎么组织文本的格式喂给模型？**](LLMs/Agent.md)           | 
+| [**03. 你做过 Function Call 微调吗？难点是什么？**](LLMs/Agent.md)           | 
+
 - 视觉模型
 
 | [**02. 在视觉大模型中，DINOv2的架构设计有哪些关键创新点？**](LLMs/Reference.md) |
