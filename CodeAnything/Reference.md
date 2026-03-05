@@ -667,6 +667,10 @@ class PatchEmbedding(nn.Module):
 
 ```
 
+# 33. PyTorch 代码实现 BEVFormer 的六张图输入部分
+
+# todo
+
 # 使用自定义的PatchEmbedding层
 ```
 # 111. C++中与类型转换相关的4个关键字特点及应用场合

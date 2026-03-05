@@ -421,6 +421,7 @@
 | [**30. PyTorch 构建一个自定义层，该层实现一个简单的LReLU激活函数**](CodeAnything/Reference.md) |      |  
 | [**31. PyTorch 编写一个数据增强类，实现随机水平翻转和通道变换**](CodeAnything/Reference.md) |      |  
 | [**32. PyTorch 实现图像到Patch Embedding过程，提示可用卷积实现**](CodeAnything/Reference.md) |      |  
+| [**33. PyTorch 代码实现 BEVFormer 的六张图输入部分**](CodeAnything/Reference.md) |      |  
 
 
 <b><summary>🚩优异开源资源推荐专题</summary></b>
